@@ -13,3 +13,8 @@ nav {
   font-color: #B30838;
   text-align: center;
 }
+
+.col-md-3 {
+  border: 1px solid black;
+  height: 50px;
+}
