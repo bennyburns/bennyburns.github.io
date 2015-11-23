@@ -5,4 +5,10 @@
 
 .container-fluid {
   background-color: #B30838;
+  font-color: white;
+}
+
+nav { 
+  background-color: #DDDDDD;
+  font-color: #B30838;
 }
