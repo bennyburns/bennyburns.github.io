@@ -4,12 +4,13 @@
 }
 
 .container-fluid {
-  background-color: white;
-  font-color: white;
+  background-color: #B30838;
+  color: white;
 }
 
 nav { 
-  font-color: #B30838;
+  color: #B30838;
+  background-color: white;
   text-align: center;
 }
 
@@ -19,3 +20,8 @@ nav {
   border: 1px solid black;
   background-color: #b30838;
 }
+
+#header {
+  height: 250 px;
+  background-color:#B30838;
+  font: white;
