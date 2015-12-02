@@ -25,7 +25,5 @@ nav {
   height: 250 px;
   background-color:#B30838;
   font: white;
-
-.row {
-  background-color:#4C4C4C;
+  border-top: 8px #4C4C4C;
 }
