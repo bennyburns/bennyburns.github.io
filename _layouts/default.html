@@ -9,20 +9,19 @@
 </head>
 <body>
  <div class="container-fluid" class="wrapper">
-  <div id="header">
-   <h1>{{ page.title }}</h1>
- <nav class="row-fluid">
-   <div class="col-md-3 col-md-offset 1.5">
-    <a href="/">Home</a>
-   </div>
-  <div class="col-md-3">
-    <a href="events.html">Events</a>
-  </div>
-  <div class="col-md-3">
-    <a href="contact_us">About Us</a>
+ <div class="row">
+  <div class="col-sm-9">
+    Level 1: .col-sm-9
+    <div class="row">
+      <div class="col-xs-8 col-sm-6">
+        Level 2: .col-xs-8 .col-sm-6
+      </div>
+      <div class="col-xs-4 col-sm-6">
+        Level 2: .col-xs-4 .col-sm-6
+      </div>
     </div>
-   </nav>
-   </div>
+  </div>
+</div>
  <content class="row">
   {{ content }} 
  </content>
