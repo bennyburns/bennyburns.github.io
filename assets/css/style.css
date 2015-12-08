@@ -53,3 +53,7 @@ nav {
   width: 50%;
   margin: auto;
 }
+
+.btn btn-default btn-lg {
+  margin: auto;
+}
