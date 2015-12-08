@@ -38,13 +38,10 @@ nav {
   border-bottom: 1px solid black;
 }
 
-#carousel-example-generic {
-  margin: auto;
-}
-
-https://cloud.githubusercontent.com/assets/14189778/11633049/819666d0-9cd7-11e5-9ab2-4abcdc60c509.jpg{
-  width: 1000px;
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+  width: 1200px;
   height: 550px;
+  margin: auto;
 }
 
 
