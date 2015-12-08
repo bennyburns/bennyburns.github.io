@@ -16,12 +16,14 @@
 nav { 
   background-color: #DDDDDD;
   text-align: center;
+  border: 2px solid white;
 }
 
 .col-md-4 {
   margin-top: 25px;
   height: 50px;
   background-color: #B30838;
+  color: white;
 }
 
 #header {
