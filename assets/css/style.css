@@ -48,16 +48,21 @@ nav {
 }
 
 .custom-social-buttons {
- margin-bottom: 120px;
+
   }
 
-.custom-social-button {
+.custom-social-button a:hover {
  	height: 30px; 
  	border-left: 1px solid #ccc;
  	width: 32%; 
   text-align: center; 
  	float: left;
- }
+  margin-bottom: 120px;
+	vertical-align: middle;
+	color: #555;
+  font-weight: bold;
+  
+}
 
 .col-md-12 {
   height: 50%;
